@@ -1,0 +1,3 @@
+<br />
+php_value ignore_user_abort On<br />
+php_value max_execution_time 15000<br />
